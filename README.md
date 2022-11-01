@@ -2,7 +2,7 @@
 # CPNT-262: Text Area Counter
 Author: Akashdeep Samra
 
-### GitHub Repo:[]
+### GitHub Repo:[https://github.com/aksamra56/cpnt262-textareacounter.git]
 ### GH Page: []
 
 ### Code attributions; 
